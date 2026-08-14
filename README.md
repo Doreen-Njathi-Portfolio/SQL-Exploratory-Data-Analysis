@@ -14,7 +14,7 @@ The project is carried out in 6 main phases:
    3. Date Exploration
    4. Measures Exploration
    5. Magnitude Analysis
-   6. Ranking Analysis: Window Functions Top N - Bottom N
+   6. Ranking Analysis: Window Functions (Top N - Bottom N)
 
 ### Business Questions Asked
  **1. Database Exploration**
@@ -61,5 +61,13 @@ The project is carried out in 6 main phases:
      - Find the top 10 customers who have generated the highest revenue.
      - 3 customers with the fewest orders placed.
 
-##  SQL Implementation Details
-![Rank Analysis Screenshot](....)
+###  SQL Implementation Details
+Measures Exploration
+
+![Measures Exploration Screenshot](https://github.com/Doreen-Njathi-Portfolio/SQL-Exploratory-Data-Analysis/blob/main/images/SQL%20Measure_Exploration%20Screenshot.jpg)
+
+Rank Analysis
+
+![Rank Analysis Screenshot](https://github.com/Doreen-Njathi-Portfolio/SQL-Exploratory-Data-Analysis/blob/main/images/SQL%20Rank_Analysis%20Screenshot.jpg)
+
+
