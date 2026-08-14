@@ -2,10 +2,12 @@
 ## Objective
 An SQL project where I explore, clean, and analyze data, to understand the data and gain insights into an e-commerce retail, using basic SQL skills:
 
-	1.	Basic queries
-	2.	Data profiling
-	3.	Simple aggregations
-	4.	Subquery
+	1.	Database querying.
+	2.	Data profiling.
+	3.	Aggregate functions.
+	4.	Data join operations.
+	5.  Subquery.
+	6.  Window functions.
 
 ## Data Analysis
 The project is carried out in 6 main phases: 
@@ -14,7 +16,7 @@ The project is carried out in 6 main phases:
    3. Date Exploration
    4. Measures Exploration
    5. Magnitude Analysis
-   6. Ranking Analysis: Window Functions (Top N - Bottom N)
+   6. Ranking Analysis
 
 ### Business Questions Asked
  **1. Database Exploration**
